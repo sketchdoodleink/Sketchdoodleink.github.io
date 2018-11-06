@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Add a Post With An Image
+title: My First Post
 ---
 
 ![tattoogun](/images/IMG_5860.JPG)`
