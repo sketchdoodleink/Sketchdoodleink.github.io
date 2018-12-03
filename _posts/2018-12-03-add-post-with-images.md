@@ -31,6 +31,6 @@ Yes it might be a cool spot to get the tattoo but if you have a low pain toleran
 [For more Information click here](https://www.cosmopolitan.com/uk/body/health/.../tattoo-pain-most-painful-places-body/
 ).
 
-## Scarred on your skin 
+## Covering up Scars 
 
 If you want an artist to cover up a scar it may be a little tricky to cover up …. Then list examples 
