@@ -10,13 +10,13 @@ title: Before you get a tattoo
 
 You can get a tattoo basically everywhere but there are  some places where you should consider , 
 Yes it might be a cool spot to get the tattoo but if you have a low pain tolerance you should think twice about getting a tattoo   
-*Ribcage. Inside of thigh
-*Inside of upper arm/elbow
-*Feet/ankles
-*Inside of wrist
-*Hands/fingers
-*Armpit
-*Other 
+- Ribcage. Inside of thigh
+- Inside of upper arm/elbow
+- Feet/ankles
+- Inside of wrist
+- Hands/fingers
+- Armpit
+- Other 
 
 [For more Information click here](https://www.cosmopolitan.com/uk/body/health/.../tattoo-pain-most-painful-places-body/
 ).
