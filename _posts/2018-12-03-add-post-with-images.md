@@ -4,7 +4,7 @@ title: Before you get a tattoo
 ###Looking for a area 
 ---
 
-![image title](/images/)
+![tattoo diagram](/images/IMG_6363.JPG)
 
 ## Areas you can get a tattoo
 
