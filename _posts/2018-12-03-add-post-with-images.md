@@ -34,3 +34,4 @@ Yes it might be a cool spot to get the tattoo but if you have a low pain toleran
 ## Covering up Scars 
 
 If you want an artist to cover up a scar it may be a little tricky to cover up …. Then list examples 
+(add more later) 
