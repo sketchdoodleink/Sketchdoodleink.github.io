@@ -17,4 +17,9 @@ it allows you to put a place where you work it also allows you to create an onli
 ### For A Client 
 It will show you any local studio near you and reviews on the place. It also explains the diifferent types of tattoos 
 and what they are and any artist that tattoo in that type it will also show some photos of there work and some artisit even have a
-book now which allows you to send an artist a email and allow you to get more 
+"book now" which allows you to send an artist a email and allow you to get more information on the artist 
+
+They also have a website : 
+[click for more information](https://www.tattoodo.com/a/2016/02/a-beginner-s-guide-10-tattoo-styles-explained/).
+
+
