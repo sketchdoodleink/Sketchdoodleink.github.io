@@ -4,8 +4,6 @@ title:  Tattoodo
 ---
 
 
-### Tattoodo 
-
 ![App Image](/images/IMG_6472.JPG)`
 
 This app could help both artist and clients if your looking for a shop near you are even 
