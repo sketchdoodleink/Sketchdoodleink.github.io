@@ -22,4 +22,5 @@ and what they are and any artist that tattoo in that type it will also show some
 They also have a website : 
 [click for more information](https://www.tattoodo.com/a/2016/02/a-beginner-s-guide-10-tattoo-styles-explained/).
 
+[click to download the app](https://www.tattoodo.com/app).
 
