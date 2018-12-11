@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Looking for a Tattoo? A tattoo artist looking for clients? 
+title:  Tattoodo  
 ---
 
 
-###Tattoodo 
+### Tattoodo 
 This app could help both artist and clients if your looking for a shop near you are even 
 just looking for a tattoo this app could help you. 
 
