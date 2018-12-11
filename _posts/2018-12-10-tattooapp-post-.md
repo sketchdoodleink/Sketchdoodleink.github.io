@@ -19,8 +19,8 @@ It will show you any local studio near you and reviews on the place. It also exp
 and what they are and any artist that tattoo in that type it will also show some photos of there work and some artisit even have a
 "book now" which allows you to send an artist a email and allow you to get more information on the artist 
 
-They also have a website : 
-[click for more information](https://www.tattoodo.com/a/2016/02/a-beginner-s-guide-10-tattoo-styles-explained/).
+ 
+[click for the website](https://www.tattoodo.com/a/2016/02/a-beginner-s-guide-10-tattoo-styles-explained/).
 
 [click to download the app](https://www.tattoodo.com/app).
 
