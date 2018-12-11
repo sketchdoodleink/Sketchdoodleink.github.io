@@ -30,7 +30,7 @@ This app helps mefollow my favorite artist like for example like Megan Massacre 
 Also in my opinion, if I was an artist I feel like this would be a great way to get my work out there and would help me to get clients 
 
 
-![app](/images/)`
+![app](/images/IMG_6473.PNG)`
 
 
 [click for the website](https://www.tattoodo.com/a/2016/02/a-beginner-s-guide-10-tattoo-styles-explained/).
