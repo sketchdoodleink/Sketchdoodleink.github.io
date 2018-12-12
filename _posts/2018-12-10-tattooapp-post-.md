@@ -30,6 +30,10 @@ Also in my opinion, if I was an artist I feel like this would be a great way to 
 
 ![app](/images/IMG_6473.PNG)`
 
+### *Cons*
+
+Looking at all the reviews they all show positive reviews the only problem I found that some people had some trouble with the app but the creator already fixed the bug
+
 
 [click for the website](https://www.tattoodo.com/a/2016/02/a-beginner-s-guide-10-tattoo-styles-explained/).
 
