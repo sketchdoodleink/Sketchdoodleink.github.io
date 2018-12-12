@@ -16,8 +16,7 @@ Yes it might be a cool spot to get the tattoo but if you have a low pain toleran
 - Inside of wrist
 - Hands/fingers
 - Armpit
-  
-  ## Some areas that would hurt less
+## Some areas that would hurt less
  - The finger 
  - Hip area
  - Shin area 
